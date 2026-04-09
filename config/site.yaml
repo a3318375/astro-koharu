@@ -11,10 +11,10 @@
 # Site Basic Information
 # =============================================================================
 site:
-  title: 余弦の博客 # 网站名称
+  title: 彼岸の花园 # 网站名称
   alternate: cosine # 网站英文名称 用于页脚、Logo、@ handle 等
   subtitle: WA 的一声就哭了 # 网站副标题
-  name: cos # 作者名称 - 请修改为你的名字
+  name: yoyo # 作者名称 - 请修改为你的名字
   description: 一个基于 Astro 的现代化博客主题 # 网站描述
   avatar: /img/avatar.webp # 网站头像
   showLogo: true # 是否显示 Logo
@@ -30,9 +30,9 @@ site:
     - 前端
     # 请根据你的网站内容添加关键词
   # breadcrumbHome: 首页  # 面包屑导航中首页的显示名称（默认: '首页'）
-  # icp:                         # ICP 备案号（可自定义链接）
-  #   text: "粤ICP备xxxxxxxxxx号"
-  #   link: "https://beian.miit.gov.cn/"
+  icp:                         # ICP 备案号（可自定义链接）
+    text: "吉ICP备20004270号-3"
+    link: "https://beian.miit.gov.cn/"
 
 # =============================================================================
 # Internationalization (i18n)
